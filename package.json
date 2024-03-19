@@ -1,0 +1,21 @@
+{
+  "name": "color-conversion",
+  "version": "1.0.0",
+  "description": "color-conversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "substring-by-length": "^1.0.4",
+    "tea-character-graph": "^1.0.1",
+    "tea-classification-description": "^1.0.1",
+    "tea-introduce": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lzgblog/color-conversion.git"
+  }
+}
