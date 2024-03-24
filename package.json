@@ -1,6 +1,6 @@
 {
-  "name": "color-conversion",
-  "version": "1.0.0",
+  "name": "color-conversion-test",
+  "version": "1.0.1",
   "description": "color-conversion",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "substring-by-length": "^1.0.4",
-    "tea-character-graph": "^1.0.1",
     "tea-classification-description": "^1.0.1",
     "tea-introduce": "^1.0.0"
   },

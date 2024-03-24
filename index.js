@@ -1,4 +1,3 @@
-const teacharactergraph = require('tea-character-graph');
 const teaclassificationdescription = require('tea-classification-description');
 const teaintroduce = require('tea-introduce');
 const substringbylength = require('substring-by-length');
